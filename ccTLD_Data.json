@@ -1,0 +1,1526 @@
+[
+    {
+        "ccTDL": "ac",
+        "country_name_jp": "アセンション島",
+        "country_name_en": "Ascension Island",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "ad",
+        "country_name_jp": "アンドラ",
+        "country_name_en": "Andorra",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "ae",
+        "country_name_jp": "アラブ首長国連邦",
+        "country_name_en": "United Arab Emirates",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "af",
+        "country_name_jp": "アフガニスタン",
+        "country_name_en": "Afghanistan",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "ag",
+        "country_name_jp": "アンティグァ・バーブーダ",
+        "country_name_en": "Antigua And Barbuda",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "ai",
+        "country_name_jp": "アンギラ",
+        "country_name_en": "Anguilla",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "al",
+        "country_name_jp": "アルバニア",
+        "country_name_en": "Albania",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "am",
+        "country_name_jp": "アルメニア",
+        "country_name_en": "Armenia",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "an",
+        "country_name_jp": "オランダ領アンティル",
+        "country_name_en": "Netherlands Antilles",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "ao",
+        "country_name_jp": "アンゴラ",
+        "country_name_en": "Angola",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "aq",
+        "country_name_jp": "南極",
+        "country_name_en": "Antarctica",
+        "erea": "南極"
+    },
+    {
+        "ccTDL": "ar",
+        "country_name_jp": "アルゼンチン",
+        "country_name_en": "Argentina",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "as",
+        "country_name_jp": "アメリカンサモア",
+        "country_name_en": "American Samoa",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "at",
+        "country_name_jp": "オーストリア",
+        "country_name_en": "Austria",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "au",
+        "country_name_jp": "オーストラリア",
+        "country_name_en": "Australia",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "aw",
+        "country_name_jp": "アルバ",
+        "country_name_en": "Aruba",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "ax",
+        "country_name_jp": "オーランド諸島",
+        "country_name_en": "Aland Islands",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "az",
+        "country_name_jp": "アゼルバイジャン",
+        "country_name_en": "Azerbaijan",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "ba",
+        "country_name_jp": "ボスニア・ヘルツェゴビナ",
+        "country_name_en": "Bosnia and Herzegowina",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "bb",
+        "country_name_jp": "バルバドス",
+        "country_name_en": "Barbados",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "bd",
+        "country_name_jp": "バングラデシュ",
+        "country_name_en": "Bangladesh",
+        "erea": "南アジア"
+    },
+    {
+        "ccTDL": "be",
+        "country_name_jp": "ベルギー",
+        "country_name_en": "Belgium",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "bf",
+        "country_name_jp": "ブルキナファソ",
+        "country_name_en": "Burkina Faso",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "bg",
+        "country_name_jp": "ブルガリア",
+        "country_name_en": "Bulgaria",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "bh",
+        "country_name_jp": "バーレーン",
+        "country_name_en": "Bahrain",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "bi",
+        "country_name_jp": "ブルンジ",
+        "country_name_en": "Burundi",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "bj",
+        "country_name_jp": "ベナン",
+        "country_name_en": "Benin",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "bl",
+        "country_name_jp": "サン・バルテルミー",
+        "country_name_en": "Saint Barthelemy",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "bm",
+        "country_name_jp": "バーミューダ",
+        "country_name_en": "Bermuda",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "bn",
+        "country_name_jp": "ブルネイ",
+        "country_name_en": "Brunei Darussalam",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "bo",
+        "country_name_jp": "ボリビア",
+        "country_name_en": "Bolivia",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "bq",
+        "country_name_jp": "ボネール島・シントユースタティウス島・サバ島",
+        "country_name_en": "Bonaire, Saint Eustatius and Saba",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "br",
+        "country_name_jp": "ブラジル",
+        "country_name_en": "Brazil",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "bs",
+        "country_name_jp": "バハマ",
+        "country_name_en": "Bahamas",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "bt",
+        "country_name_jp": "ブータン",
+        "country_name_en": "Bhutan",
+        "erea": "南アジア"
+    },
+    {
+        "ccTDL": "bv",
+        "country_name_jp": "ブーベ島",
+        "country_name_en": "Bouvet Island",
+        "erea": "南極"
+    },
+    {
+        "ccTDL": "bw",
+        "country_name_jp": "ボツワナ",
+        "country_name_en": "Botswana",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "by",
+        "country_name_jp": "ベラルーシ",
+        "country_name_en": "Belarus",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "bz",
+        "country_name_jp": "ベリーズ",
+        "country_name_en": "Belize",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "ca",
+        "country_name_jp": "カナダ",
+        "country_name_en": "Canada",
+        "erea": "北アメリカ"
+    },
+    {
+        "ccTDL": "cc",
+        "country_name_jp": "ココス諸島",
+        "country_name_en": "Cocos (Keeling) Islands",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "cd",
+        "country_name_jp": "コンゴ民主共和国(旧ザイール)",
+        "country_name_en": "Congo, Democratic Republic of",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "cf",
+        "country_name_jp": "中央アフリカ共和国",
+        "country_name_en": "Central African Republic",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "cg",
+        "country_name_jp": "コンゴ",
+        "country_name_en": "Congo, Republic of",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "ch",
+        "country_name_jp": "スイス",
+        "country_name_en": "Switzerland",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "ci",
+        "country_name_jp": "コートジボアール",
+        "country_name_en": "Cote d'Ivoire ",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "ck",
+        "country_name_jp": "クック諸島",
+        "country_name_en": "Cook Islands",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "cl",
+        "country_name_jp": "チリ",
+        "country_name_en": "Chile",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "cm",
+        "country_name_jp": "カメルーン",
+        "country_name_en": "Cameroon",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "cn",
+        "country_name_jp": "中国",
+        "country_name_en": "China",
+        "erea": "東アジア"
+    },
+    {
+        "ccTDL": "co",
+        "country_name_jp": "コロンビア",
+        "country_name_en": "Colombia",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "cr",
+        "country_name_jp": "コスタリカ",
+        "country_name_en": "Costa Rica",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "cu",
+        "country_name_jp": "キューバ",
+        "country_name_en": "Cuba",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "cv",
+        "country_name_jp": "カーボベルデ",
+        "country_name_en": "Cape Verde",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "cw",
+        "country_name_jp": "キュラサオ島",
+        "country_name_en": "Curacao",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "cx",
+        "country_name_jp": "クリスマス島",
+        "country_name_en": "Christmas Island",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "cy",
+        "country_name_jp": "キプロス",
+        "country_name_en": "Cyprus",
+        "erea": "地中海地域"
+    },
+    {
+        "ccTDL": "cz",
+        "country_name_jp": "チェコ",
+        "country_name_en": "Czech Republic",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "de",
+        "country_name_jp": "ドイツ",
+        "country_name_en": "Germany",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "dj",
+        "country_name_jp": "ジブチ",
+        "country_name_en": "Djibouti",
+        "erea": "東アフリカ"
+    },
+    {
+        "ccTDL": "dk",
+        "country_name_jp": "デンマーク",
+        "country_name_en": "Denmark",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "dm",
+        "country_name_jp": "ドミニカ",
+        "country_name_en": "Dominica",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "do",
+        "country_name_jp": "ドミニカ共和国",
+        "country_name_en": "Dominican Republic",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "dz",
+        "country_name_jp": "アルジェリア",
+        "country_name_en": "Algeria",
+        "erea": "北アフリカ"
+    },
+    {
+        "ccTDL": "ec",
+        "country_name_jp": "エクアドル",
+        "country_name_en": "Ecuador",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "ee",
+        "country_name_jp": "エストニア",
+        "country_name_en": "Estonia",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "eg",
+        "country_name_jp": "エジプト",
+        "country_name_en": "Egypt",
+        "erea": "北アフリカ"
+    },
+    {
+        "ccTDL": "eh",
+        "country_name_jp": "西サハラ",
+        "country_name_en": "Western Sahara",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "er",
+        "country_name_jp": "エリトリア",
+        "country_name_en": "Eritrea",
+        "erea": "東アフリカ"
+    },
+    {
+        "ccTDL": "es",
+        "country_name_jp": "スペイン",
+        "country_name_en": "Spain",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "et",
+        "country_name_jp": "エチオピア",
+        "country_name_en": "Ethiopia",
+        "erea": "東アフリカ"
+    },
+    {
+        "ccTDL": "eu",
+        "country_name_jp": "ヨーロッパ連合",
+        "country_name_en": "European Union",
+        "erea": "ヨーロッパ"
+    },
+    {
+        "ccTDL": "fi",
+        "country_name_jp": "フィンランド",
+        "country_name_en": "Finland",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "fj",
+        "country_name_jp": "フィジー",
+        "country_name_en": "Fiji",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "fk",
+        "country_name_jp": "フォークランド諸島",
+        "country_name_en": "Falkland Islands (Malvinas)",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "fm",
+        "country_name_jp": "ミクロネシア",
+        "country_name_en": "Micronesia, Federated States of",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "fo",
+        "country_name_jp": "フェロー諸島",
+        "country_name_en": "Faroe Islands",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "fr",
+        "country_name_jp": "フランス",
+        "country_name_en": "France",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "ga",
+        "country_name_jp": "ガボン",
+        "country_name_en": "Gabon",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "gb",
+        "country_name_jp": "イギリス",
+        "country_name_en": "United Kingdom",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "gd",
+        "country_name_jp": "グレナダ",
+        "country_name_en": "Grenada",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "ge",
+        "country_name_jp": "グルジア",
+        "country_name_en": "Georgia",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "gf",
+        "country_name_jp": "フランス領ギアナ",
+        "country_name_en": "French Guiana",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "gg",
+        "country_name_jp": "ガ－ンジィ島",
+        "country_name_en": "Guernsey",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "gh",
+        "country_name_jp": "ガーナ",
+        "country_name_en": "Ghana",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "gi",
+        "country_name_jp": "ジブラルタル",
+        "country_name_en": "Gibraltar",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "gl",
+        "country_name_jp": "グリーンランド",
+        "country_name_en": "Greenland",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "gm",
+        "country_name_jp": "ガンビア",
+        "country_name_en": "Gambia",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "gn",
+        "country_name_jp": "ギニア",
+        "country_name_en": "Guinea",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "gp",
+        "country_name_jp": "グアドループ",
+        "country_name_en": "Guadeloupe",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "gq",
+        "country_name_jp": "赤道ギニア",
+        "country_name_en": "Equatorial Guinea",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "gr",
+        "country_name_jp": "ギリシャ",
+        "country_name_en": "Greece",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "gs",
+        "country_name_jp": "サウスジョージア島・サウスサンドイッチ島",
+        "country_name_en": "South Georgia and the South Sandwich Islands",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "gt",
+        "country_name_jp": "グアテマラ",
+        "country_name_en": "Guatemala",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "gu",
+        "country_name_jp": "グアム",
+        "country_name_en": "Guam",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "gw",
+        "country_name_jp": "ギニアビサオ",
+        "country_name_en": "Guinea-Bissau",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "gy",
+        "country_name_jp": "ガイアナ",
+        "country_name_en": "Guyana",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "hk",
+        "country_name_jp": "香港",
+        "country_name_en": "Hong Kong",
+        "erea": "東アジア"
+    },
+    {
+        "ccTDL": "hm",
+        "country_name_jp": "ハード・マクドナルド諸島",
+        "country_name_en": "Heard and McDonald Islands",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "hn",
+        "country_name_jp": "ホンジュラス",
+        "country_name_en": "Honduras",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "hr",
+        "country_name_jp": "クロアチア",
+        "country_name_en": "Croatia (Hrvatska)",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "ht",
+        "country_name_jp": "ハイチ",
+        "country_name_en": "Haiti",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "hu",
+        "country_name_jp": "ハンガリー",
+        "country_name_en": "Hungary",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "id",
+        "country_name_jp": "インドネシア",
+        "country_name_en": "Indonesia",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "ie",
+        "country_name_jp": "アイルランド",
+        "country_name_en": "Ireland",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "il",
+        "country_name_jp": "イスラエル",
+        "country_name_en": "Israel",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "im",
+        "country_name_jp": "マン島",
+        "country_name_en": "Isle of Man",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "in",
+        "country_name_jp": "インド",
+        "country_name_en": "India",
+        "erea": "南アジア"
+    },
+    {
+        "ccTDL": "io",
+        "country_name_jp": "英領インド洋地域",
+        "country_name_en": "British Indian Ocean Territory",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "iq",
+        "country_name_jp": "イラク",
+        "country_name_en": "Iraq",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "ir",
+        "country_name_jp": "イラン",
+        "country_name_en": "Iran",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "is",
+        "country_name_jp": "アイスランド",
+        "country_name_en": "Iceland",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "it",
+        "country_name_jp": "イタリア",
+        "country_name_en": "Italy",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "je",
+        "country_name_jp": "ジャージー",
+        "country_name_en": "Jersey",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "jm",
+        "country_name_jp": "ジャマイカ",
+        "country_name_en": "Jamaica",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "jo",
+        "country_name_jp": "ヨルダン",
+        "country_name_en": "Jordan",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "jp",
+        "country_name_jp": "日本",
+        "country_name_en": "Japan",
+        "erea": "東アジア"
+    },
+    {
+        "ccTDL": "ke",
+        "country_name_jp": "ケニア",
+        "country_name_en": "Kenya",
+        "erea": "東アフリカ"
+    },
+    {
+        "ccTDL": "kg",
+        "country_name_jp": "キルギス",
+        "country_name_en": "Kyrgyzstan",
+        "erea": "中央アジア"
+    },
+    {
+        "ccTDL": "kh",
+        "country_name_jp": "カンボジア",
+        "country_name_en": "Cambodia",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "ki",
+        "country_name_jp": "キリバス",
+        "country_name_en": "Kiribati",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "km",
+        "country_name_jp": "コモロ",
+        "country_name_en": "Comoros",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "kn",
+        "country_name_jp": "セントクリストファー・ネイビス",
+        "country_name_en": "Saint Kitts and Nevis",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "kp",
+        "country_name_jp": "朝鮮民主主義人民共和国",
+        "country_name_en": "Korea, Democratic People's Republic of",
+        "erea": "東アジア"
+    },
+    {
+        "ccTDL": "kr",
+        "country_name_jp": "大韓民国",
+        "country_name_en": "Korea, Republic of",
+        "erea": "東アジア"
+    },
+    {
+        "ccTDL": "kw",
+        "country_name_jp": "クウェート",
+        "country_name_en": "Kuwait",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "ky",
+        "country_name_jp": "ケイマン諸島",
+        "country_name_en": "Cayman Islands",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "kz",
+        "country_name_jp": "カザフスタン",
+        "country_name_en": "Kazakhstan",
+        "erea": "中央アジア"
+    },
+    {
+        "ccTDL": "la",
+        "country_name_jp": "ラオス",
+        "country_name_en": "Lao People's Democratic Republic",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "lb",
+        "country_name_jp": "レバノン",
+        "country_name_en": "Lebanon",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "lc",
+        "country_name_jp": "セントルシア",
+        "country_name_en": "Saint Lucia",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "li",
+        "country_name_jp": "リヒテンシュタイン",
+        "country_name_en": "Liechtenstein",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "lk",
+        "country_name_jp": "スリランカ",
+        "country_name_en": "Sri Lanka",
+        "erea": "南アジア"
+    },
+    {
+        "ccTDL": "lr",
+        "country_name_jp": "リベリア",
+        "country_name_en": "Liberia",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "ls",
+        "country_name_jp": "レソト",
+        "country_name_en": "Lesotho",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "lt",
+        "country_name_jp": "リトアニア",
+        "country_name_en": "Lithuania",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "lu",
+        "country_name_jp": "ルクセンブルク",
+        "country_name_en": "Luxembourg",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "lv",
+        "country_name_jp": "ラトビア",
+        "country_name_en": "Latvia",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "ly",
+        "country_name_jp": "リビア",
+        "country_name_en": "Libyan Arab Jamahiriya",
+        "erea": "北アフリカ"
+    },
+    {
+        "ccTDL": "ma",
+        "country_name_jp": "モロッコ",
+        "country_name_en": "Morocco",
+        "erea": "北アフリカ"
+    },
+    {
+        "ccTDL": "mc",
+        "country_name_jp": "モナコ",
+        "country_name_en": "Monaco",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "md",
+        "country_name_jp": "モルドバ",
+        "country_name_en": "Moldova, Republic of",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "me",
+        "country_name_jp": "モンテネグロ",
+        "country_name_en": "Montenegro",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "mf",
+        "country_name_jp": "サン・マルタン島(フランス領)",
+        "country_name_en": "Saint Martin(French part)",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "mg",
+        "country_name_jp": "マダガスカル",
+        "country_name_en": "Madagascar",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "mh",
+        "country_name_jp": "マーシャル諸島",
+        "country_name_en": "Marshall Islands",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "mk",
+        "country_name_jp": "マケドニア",
+        "country_name_en": "Macedonia, Former Yugoslav Republic of",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "ml",
+        "country_name_jp": "マリ",
+        "country_name_en": "Mali",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "mm",
+        "country_name_jp": "ミャンマー",
+        "country_name_en": "Myanmar",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "mn",
+        "country_name_jp": "モンゴル",
+        "country_name_en": "Mongolia",
+        "erea": "東アジア"
+    },
+    {
+        "ccTDL": "mo",
+        "country_name_jp": "マカオ",
+        "country_name_en": "Macau",
+        "erea": "東アジア"
+    },
+    {
+        "ccTDL": "mp",
+        "country_name_jp": "北マリアナ諸島",
+        "country_name_en": "Northern Mariana Islands",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "mq",
+        "country_name_jp": "マルチニーク島",
+        "country_name_en": "Martinique",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "mr",
+        "country_name_jp": "モーリタニア",
+        "country_name_en": "Mauritania",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "ms",
+        "country_name_jp": "モントセラト",
+        "country_name_en": "Montserrat",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "mt",
+        "country_name_jp": "マルタ",
+        "country_name_en": "Malta",
+        "erea": "地中海地域"
+    },
+    {
+        "ccTDL": "mu",
+        "country_name_jp": "モーリシャス",
+        "country_name_en": "Mauritius",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "mv",
+        "country_name_jp": "モルディブ",
+        "country_name_en": "Maldives",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "mw",
+        "country_name_jp": "マラウイ",
+        "country_name_en": "Malawi",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "mx",
+        "country_name_jp": "メキシコ",
+        "country_name_en": "Mexico",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "my",
+        "country_name_jp": "マレーシア",
+        "country_name_en": "Malaysia",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "mz",
+        "country_name_jp": "モザンビーク",
+        "country_name_en": "Mozambique",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "na",
+        "country_name_jp": "ナミビア",
+        "country_name_en": "Namibia",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "nc",
+        "country_name_jp": "ニューカレドニア",
+        "country_name_en": "New Caledonia",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "ne",
+        "country_name_jp": "ニジェール",
+        "country_name_en": "Niger",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "nf",
+        "country_name_jp": "ノーフォーク島",
+        "country_name_en": "Norfolk Island",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "ng",
+        "country_name_jp": "ナイジェリア",
+        "country_name_en": "Nigeria",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "ni",
+        "country_name_jp": "ニカラグア",
+        "country_name_en": "Nicaragua",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "nl",
+        "country_name_jp": "オランダ",
+        "country_name_en": "Netherlands",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "no",
+        "country_name_jp": "ノルウェー",
+        "country_name_en": "Norway",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "np",
+        "country_name_jp": "ネパール",
+        "country_name_en": "Nepal",
+        "erea": "南アジア"
+    },
+    {
+        "ccTDL": "nr",
+        "country_name_jp": "ナウル",
+        "country_name_en": "Nauru",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "nu",
+        "country_name_jp": "ニウエ",
+        "country_name_en": "Niue",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "nz",
+        "country_name_jp": "ニュージーランド",
+        "country_name_en": "New Zealand",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "om",
+        "country_name_jp": "オマーン",
+        "country_name_en": "Oman",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "pa",
+        "country_name_jp": "パナマ",
+        "country_name_en": "Panama",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "pe",
+        "country_name_jp": "ペルー",
+        "country_name_en": "Peru",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "pf",
+        "country_name_jp": "フランス領ポリネシア",
+        "country_name_en": "French Polynesia",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "pg",
+        "country_name_jp": "パプアニューギニア",
+        "country_name_en": "Papua New Guinea",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "ph",
+        "country_name_jp": "フィリピン",
+        "country_name_en": "Philippines",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "pk",
+        "country_name_jp": "パキスタン",
+        "country_name_en": "Pakistan",
+        "erea": "南アジア"
+    },
+    {
+        "ccTDL": "pl",
+        "country_name_jp": "ポーランド",
+        "country_name_en": "Poland",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "pm",
+        "country_name_jp": "サンピエール島・ミクロン島",
+        "country_name_en": "St. Pierre and Miquelon",
+        "erea": "北アメリカ"
+    },
+    {
+        "ccTDL": "pn",
+        "country_name_jp": "ピトケアン島",
+        "country_name_en": "Pitcairn",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "pr",
+        "country_name_jp": "プエルトリコ",
+        "country_name_en": "Puerto Rico",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "ps",
+        "country_name_jp": "パレスチナ",
+        "country_name_en": "Palestinian Territories",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "pt",
+        "country_name_jp": "ポルトガル",
+        "country_name_en": "Portugal",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "pw",
+        "country_name_jp": "パラオ",
+        "country_name_en": "Palau",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "py",
+        "country_name_jp": "パラグアイ",
+        "country_name_en": "Paraguay",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "qa",
+        "country_name_jp": "カタール",
+        "country_name_en": "Qatar",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "re",
+        "country_name_jp": "レユニオン",
+        "country_name_en": "Reunion",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "ro",
+        "country_name_jp": "ルーマニア",
+        "country_name_en": "Romania",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "rs",
+        "country_name_jp": "セルビア",
+        "country_name_en": "Serbia",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "ru",
+        "country_name_jp": "ロシア連邦",
+        "country_name_en": "Russian Federation",
+        "erea": "ロシア"
+    },
+    {
+        "ccTDL": "rw",
+        "country_name_jp": "ルワンダ",
+        "country_name_en": "Rwanda",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "sa",
+        "country_name_jp": "サウジアラビア",
+        "country_name_en": "Saudi Arabia",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "sb",
+        "country_name_jp": "ソロモン諸島",
+        "country_name_en": "Solomon Islands",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "sc",
+        "country_name_jp": "セイシェル",
+        "country_name_en": "Seychelles",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "sd",
+        "country_name_jp": "スーダン",
+        "country_name_en": "Sudan",
+        "erea": "東アフリカ"
+    },
+    {
+        "ccTDL": "se",
+        "country_name_jp": "スウェーデン",
+        "country_name_en": "Sweden",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "sg",
+        "country_name_jp": "シンガポール",
+        "country_name_en": "Singapore",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "sh",
+        "country_name_jp": "セントヘレナ島",
+        "country_name_en": "St. Helena",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "si",
+        "country_name_jp": "スロベニア",
+        "country_name_en": "Slovenia",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "sj",
+        "country_name_jp": "スバールバル諸島・ヤンマイエン島",
+        "country_name_en": "Svalbard And Jan Mayen Islands",
+        "erea": "北ヨーロッパ"
+    },
+    {
+        "ccTDL": "sk",
+        "country_name_jp": "スロバキア",
+        "country_name_en": "Slovakia (Slovak Republic)",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "sl",
+        "country_name_jp": "シエラレオネ",
+        "country_name_en": "Sierra Leone",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "sm",
+        "country_name_jp": "サンマリノ",
+        "country_name_en": "San Marino",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "sn",
+        "country_name_jp": "セネガル",
+        "country_name_en": "Senegal",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "so",
+        "country_name_jp": "ソマリア",
+        "country_name_en": "Somalia",
+        "erea": "東アフリカ"
+    },
+    {
+        "ccTDL": "sr",
+        "country_name_jp": "スリナム",
+        "country_name_en": "Suriname",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "ss",
+        "country_name_jp": "南スーダン",
+        "country_name_en": "South Sudan",
+        "erea": "東アフリカ"
+    },
+    {
+        "ccTDL": "st",
+        "country_name_jp": "サントメ・プリンシペ",
+        "country_name_en": "Sao Tome and Principe",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "sv",
+        "country_name_jp": "エルサルバドル",
+        "country_name_en": "El Salvador",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "sx",
+        "country_name_jp": "シント・マールテン島(オランダ領)",
+        "country_name_en": "Sint Maarten (Dutch part)",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "sy",
+        "country_name_jp": "シリア",
+        "country_name_en": "Syrian Arab Republic",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "sz",
+        "country_name_jp": "スワジランド",
+        "country_name_en": "Swaziland",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "tc",
+        "country_name_jp": "タークス諸島・カイコス諸島",
+        "country_name_en": "Turks and Caicos Islands",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "td",
+        "country_name_jp": "チャド",
+        "country_name_en": "Chad",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "tf",
+        "country_name_jp": "フランス領極南諸島",
+        "country_name_en": "French Southern Territories",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "tg",
+        "country_name_jp": "トーゴ",
+        "country_name_en": "Togo",
+        "erea": "西アフリカ"
+    },
+    {
+        "ccTDL": "th",
+        "country_name_jp": "タイ",
+        "country_name_en": "Thailand",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "tj",
+        "country_name_jp": "タジキスタン",
+        "country_name_en": "Tajikistan",
+        "erea": "中央アジア"
+    },
+    {
+        "ccTDL": "tk",
+        "country_name_jp": "トケラウ諸島",
+        "country_name_en": "Tokelau",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "tl",
+        "country_name_jp": "東ティモール",
+        "country_name_en": "Timor-Leste",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "tm",
+        "country_name_jp": "トルクメニスタン",
+        "country_name_en": "Turkmenistan",
+        "erea": "中央アジア"
+    },
+    {
+        "ccTDL": "tn",
+        "country_name_jp": "チュニジア",
+        "country_name_en": "Tunisia",
+        "erea": "北アフリカ"
+    },
+    {
+        "ccTDL": "to",
+        "country_name_jp": "トンガ",
+        "country_name_en": "Tonga",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "tp",
+        "country_name_jp": "東ティモール",
+        "country_name_en": "East Timor",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "tr",
+        "country_name_jp": "トルコ",
+        "country_name_en": "Turkey",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "tt",
+        "country_name_jp": "トリニダード・トバゴ",
+        "country_name_en": "Trinidad and Tobago",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "tv",
+        "country_name_jp": "ツバル",
+        "country_name_en": "Tuvalu",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "tw",
+        "country_name_jp": "台湾",
+        "country_name_en": "Taiwan",
+        "erea": "東アジア"
+    },
+    {
+        "ccTDL": "tz",
+        "country_name_jp": "タンザニア",
+        "country_name_en": "Tanzania, United Republic of",
+        "erea": "東アフリカ"
+    },
+    {
+        "ccTDL": "ua",
+        "country_name_jp": "ウクライナ",
+        "country_name_en": "Ukraine",
+        "erea": "東ヨーロッパ"
+    },
+    {
+        "ccTDL": "ug",
+        "country_name_jp": "ウガンダ",
+        "country_name_en": "Uganda",
+        "erea": "中央アフリカ"
+    },
+    {
+        "ccTDL": "uk",
+        "country_name_jp": "イギリス",
+        "country_name_en": "United Kingdom",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "um",
+        "country_name_jp": "米領太平洋諸島(ミッドウェー、ジョンストン、ウェーク島)",
+        "country_name_en": "United States Minor Outlying Islands",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "us",
+        "country_name_jp": "アメリカ合衆国",
+        "country_name_en": "United States",
+        "erea": "北アメリカ"
+    },
+    {
+        "ccTDL": "uy",
+        "country_name_jp": "ウルグアイ",
+        "country_name_en": "Uruguay",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "uz",
+        "country_name_jp": "ウズベキスタン",
+        "country_name_en": "Uzbekistan",
+        "erea": "中央アジア"
+    },
+    {
+        "ccTDL": "va",
+        "country_name_jp": "バチカン市国",
+        "country_name_en": "Vatican City State",
+        "erea": "西ヨーロッパ"
+    },
+    {
+        "ccTDL": "vc",
+        "country_name_jp": "セントビンセントおよびグレナディーン諸島",
+        "country_name_en": "Saint Vincent and the Grenadines",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "ve",
+        "country_name_jp": "ベネズエラ",
+        "country_name_en": "Venezuela",
+        "erea": "南アメリカ"
+    },
+    {
+        "ccTDL": "vg",
+        "country_name_jp": "英領バージン諸島",
+        "country_name_en": "Virgin Islands (British)",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "vi",
+        "country_name_jp": "米領バージン諸島",
+        "country_name_en": "Virgin Islands (USA)",
+        "erea": "中央アメリカ"
+    },
+    {
+        "ccTDL": "vn",
+        "country_name_jp": "ベトナム",
+        "country_name_en": "Viet Nam",
+        "erea": "東南アジア"
+    },
+    {
+        "ccTDL": "vu",
+        "country_name_jp": "バヌアツ",
+        "country_name_en": "Vanuatu",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "wf",
+        "country_name_jp": "ワリス・フテュナ諸島",
+        "country_name_en": "Wallis and Futuna Islands",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "ws",
+        "country_name_jp": "西サモア",
+        "country_name_en": "Western Samoa",
+        "erea": "オセアニア"
+    },
+    {
+        "ccTDL": "ye",
+        "country_name_jp": "イエメン",
+        "country_name_en": "Yemen",
+        "erea": "中東"
+    },
+    {
+        "ccTDL": "yt",
+        "country_name_jp": "マヨット島",
+        "country_name_en": "Mayotte",
+        "erea": "インド洋地域"
+    },
+    {
+        "ccTDL": "za",
+        "country_name_jp": "南アフリカ共和国",
+        "country_name_en": "South Africa",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "zm",
+        "country_name_jp": "ザンビア",
+        "country_name_en": "Zambia",
+        "erea": "南アフリカ"
+    },
+    {
+        "ccTDL": "zw",
+        "country_name_jp": "ジンバブエ",
+        "country_name_en": "Zimbabwe",
+        "erea": "南アフリカ"
+    }
+]

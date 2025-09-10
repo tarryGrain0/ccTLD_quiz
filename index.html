@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+    <title>ccTLD Quiz</title>
+</head>
+
+<body>
+    <div id="start-container">
+        <h1>ccTLD クイズ</h1>
+        <p>国別コードトップレベルドメイン（ccTLD）に関するクイズです。</p>
+        <p>ランダムに出題される10問に挑戦してください！</p>
+        <button id="start-button" onclick="loadQuiz()">クイズスタート</button>
+    </div>
+
+    <div id="quiz-container" class="hidden">
+        <div id="question">ここに問題文が表示されます</div>
+        <div id="choices" class="choices-grid"></div>
+        <p>経過時間: <span id="timer">0</span>秒</p>
+        <p>問題: <span id="current-question">1</span> / <span id="total-questions">10</span></p>
+    </div>
+
+    <div id="result-container" class="hidden">
+        <h2>結果発表</h2>
+        <p>正答率: <span id="accuracy"></span>%</p>
+        <p>合計時間: <span id="total-time"></span>秒</p>
+        <table id="result-table">
+            <thead>
+                <tr>
+                    <th>問題</th>
+                    <th>あなたの答え</th>
+                    <th>正解</th>
+                    <th>結果</th>
+                </tr>
+            </thead>
+            <tbody id="result-body"></tbody>
+        </table>
+        <button onclick="location.reload()">もう一度挑戦</button>
+    </div>
+</body>
+
+</html>

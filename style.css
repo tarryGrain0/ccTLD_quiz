@@ -1,0 +1,250 @@
+/* --- 全体のスタイル --- */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f4f8;
+    /* 優しく明るい背景色 */
+    color: #333;
+}
+
+/* --- コンテナの基本スタイル --- */
+#quiz-container,
+#result-container,
+#ranking-container,
+#start-container {
+    width: 90%;
+    max-width: 600px;
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+/* --- スタート画面 --- */
+#start-container h1 {
+    color: #007bff;
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+}
+
+#start-container p {
+    margin-bottom: 1rem;
+    color: #666;
+    line-height: 1.6;
+}
+
+#start-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 1rem;
+}
+
+#start-button:hover {
+    background-color: #0056b3;
+}
+
+/* --- ヘッダー/タイトル --- */
+h2 {
+    color: #007bff;
+    margin-top: 0;
+}
+
+/* --- 問題文 --- */
+#question {
+    font-size: 1.5rem;
+    /* 24px */
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+}
+
+/* --- 選択肢グリッド --- */
+.choices-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* 2列のグリッドレイアウト */
+    gap: 15px;
+    margin-bottom: 1.5rem;
+}
+
+.choices-grid button {
+    width: 100%;
+    padding: 15px;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.choices-grid button:hover {
+    background-color: #e9ecef;
+    border-color: #007bff;
+    transform: translateY(-2px);
+    /* 少し浮き上がる効果 */
+}
+
+/* --- タイマー --- */
+#timer {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #dc3545;
+    /* 警告色で目立たせる */
+}
+
+/* --- 結果表示 --- */
+#result-container p {
+    font-size: 1.2rem;
+    margin: 0.8rem 0;
+}
+
+#accuracy,
+#total-time {
+    font-weight: bold;
+    color: #007bff;
+}
+
+#username {
+    width: 80%;
+    padding: 12px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#register-ranking {
+    padding: 12px 25px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #28a745;
+    /* 成功をイメージさせる緑 */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#register-ranking:hover {
+    background-color: #218838;
+}
+
+
+/* --- ランキング表示 --- */
+#ranking-list {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+#ranking-list li {
+    background-color: #f8f9fa;
+    padding: 12px 15px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* --- ユーティリティ --- */
+.hidden {
+    display: none;
+}
+
+/* --- レスポンシブ対応 (スマートフォン向け) --- */
+/* --- 結果表 --- */
+#result-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+#result-table th,
+#result-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+#result-table th {
+    background-color: #007bff;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+
+#result-table tr.correct {
+    background-color: #d4edda;
+}
+
+#result-table tr.incorrect {
+    background-color: #f8d7da;
+}
+
+#result-table .result-icon {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#result-table tr.correct .result-icon {
+    color: #28a745;
+}
+
+#result-table tr.incorrect .result-icon {
+    color: #dc3545;
+}
+
+/* --- ユーティリティクラス --- */
+.hidden {
+    display: none !important;
+}
+
+/* --- レスポンシブデザイン --- */
+@media (max-width: 600px) {
+    body {
+        padding: 1rem;
+    }
+
+    .choices-grid {
+        grid-template-columns: 1fr;
+        /* 画面が狭い場合は1列にする */
+    }
+
+    #question {
+        font-size: 1.3rem;
+    }
+
+    /* テーブルのレスポンシブ対応 */
+    #result-table {
+        font-size: 0.9rem;
+    }
+
+    #result-table th,
+    #result-table td {
+        padding: 8px 6px;
+    }
+
+    #result-table th:first-child,
+    #result-table td:first-child {
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+}
